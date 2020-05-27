@@ -1,6 +1,7 @@
 Expense Planner( React)
 
-Usage
+# Usage
+# To install the packages 
 npm install
 
 # Run on http://localhost:3000
